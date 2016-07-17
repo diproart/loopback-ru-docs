@@ -1,5 +1,5 @@
 # Summary
 
-* [Managing users](managing_users.md)
+* [Managing users](Managing users/overview.md)
    * Registering users
 
