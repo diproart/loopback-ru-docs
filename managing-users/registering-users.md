@@ -102,9 +102,9 @@ module.exports = function(customer){
 
 Шаблон `verify.ejs`
 
-```ejs
+```html
 This is the html version of your email.
-&lt;strong><%= text %>&lt;/strong>
+<strong><%= text %></strong>
 ```
 
 #### Регистрация через других провайдеров
