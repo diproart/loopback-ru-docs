@@ -1,4 +1,4 @@
 # Summary
 
-* Managing users
+* [Managing users](managing_users.md)
 
